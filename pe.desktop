@@ -1,0 +1,51 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=application-x-executable
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=PE structure
+Name[bs]=PE struktura
+Name[ca]=Estructura PE
+Name[ca@valencia]=Estructura PE
+Name[da]=PE-struktur
+Name[de]=PE-Struktur
+Name[el]=Δομή PE
+Name[en_GB]=PE structure
+Name[es]=Estructura PE
+Name[et]=PE struktuur
+Name[fi]=PE-rakenne
+Name[fr]=Structure PE
+Name[ga]=Struchtúr PE
+Name[hu]=PE struktúra
+Name[it]=Struttura PE
+Name[kk]=PE құрылымы
+Name[km]=រចនាសម្ព័ន្ធ​របស់​ PE
+Name[ko]=PE 구조
+Name[nb]=PE-struktur
+Name[nds]=PE-Struktuur
+Name[nl]=PE-structuur
+Name[pl]=Struktura PE
+Name[pt]=Estrutura PE
+Name[pt_BR]=Estrutura PE
+Name[sr]=ЕЛФ структура
+Name[sr@ijekavian]=ЕЛФ структура
+Name[sr@ijekavianlatin]=PE struktura
+Name[sr@latin]=PE struktura
+Name[sv]=PE-struktur
+Name[uk]=Структура PE
+Name[x-test]=xxPE structurexx
+Name[zh_CN]=PE 结构
+Name[zh_TW]=PE 結構
+Comment=Structure for Network packets (PE)
+Comment[it]=Struttura per pacchetti di rete (PE)
+
+
+X-KDE-PluginInfo-Author=Erik Abair
+X-KDE-PluginInfo-Email=erik.abair@gmail.com
+X-KDE-PluginInfo-Name=PortableExecutable
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://www.kde.org/
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-License=BSDL
+X-KDE-PluginInfo-EnabledByDefault=false
